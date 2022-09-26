@@ -5,7 +5,7 @@
 
 This will copy some ``javascript`` program files to your ``htdocs`` folder.  
 
-Go to [this link](https://github.com/barcaxi/css2022) and download the repository ZIP file.  Copy the ``javascript`` folder into your XAMPP ``htdocs`` folder.
+Go to [this link](https://github.com/barcaxi/css22) and download the repository ZIP file.  Copy the ``javascript`` folder into your XAMPP ``htdocs`` folder.
 
 Check your ``htdocs`` folder.  You should have a new folder called ``javascript`` with some files in it.
 
