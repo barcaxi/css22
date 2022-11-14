@@ -8,7 +8,7 @@
 	Then using the variable print ``My Name is <YOURNAME>``
 
 1.	In ``variables.php`` create two variables for your ``firstname`` and ``lastname``. 
-	Print your full name by concatenating both variables using the `.` operator.
+	Print your full name by concatenating both variables using the `.` operator.  Use ``print()`` function to print output.
 
 1.	In ``variables.php`` print the length([*](https://www.w3schools.com/php/func_string_strlen.asp)) and uppercase([*](https://www.w3schools.com/php/func_string_strtoupper.asp)) of the ``firstname`` variable.
 
@@ -92,7 +92,7 @@
 
 1.	Write a PHP program called ``table.php`` that prints the multiplication table shown below
 
-	![alt text](images/table.png "12 Times Table")
+	![](images/table.png "Times Table")
 
     Use a ``for`` loop.  You must use correct HTML table elements([*](https://www.w3schools.com/html/html_tables.asp))
 
