@@ -73,7 +73,7 @@
 1.	In the previous solution does your code print a message such a *Invalid mark* if a mark > 100 or mark < 0 is input? 
 	If NOT, modify your code now to do so.
 
-1.  Write a PHP program called ``sqr.php`` that prints the following:
+1.  Write a PHP program called ``sqr.php`` that prints the following in your browser:
 
     ```
     1*1=1
@@ -94,5 +94,5 @@
 
 	![alt text](images/table.png "12 Times Table")
 
-    Use a ``for`` loop.
+    Use a ``for`` loop.  You must use correct HTML table elements([*](https://www.w3schools.com/html/html_tables.asp))
 
