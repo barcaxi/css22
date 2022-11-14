@@ -1,17 +1,16 @@
 # PHP Exercise 2
 		
-> Note:: Complete ALL the exercises in this section.
+> Complete ALL the exercises in this section.
 
 ## Part 1 - Variables
 
 1.	Write a PHP program called ``variables.php`` that stores your name in a variable. 
 	Then using the variable print ``My Name is <YOURNAME>``
 
-1.	In ``variables.php`` create two variables for your firstname and lastname. 
+1.	In ``variables.php`` create two variables for your ``firstname`` and ``lastname``. 
 	Print your full name by concatenating both variables using the `.` operator.
 
-1.	In ``variables.php`` print the length, uppercase and lowercase of the firstname variable.
-	See the [PHP Manual](http://www.php.net/manual/en/ref.strings.php) or [W3Schools](https://www.w3schools.com/php/php_ref_string.asp)
+1.	In ``variables.php`` print the length([*](https://www.w3schools.com/php/func_string_strlen.asp)) and uppercase([*](https://www.w3schools.com/php/func_string_strtoupper.asp)) of the ``firstname`` variable.
 
 1.  Download card images from [here](images/cards.zip?raw=true) and copy the ``images`` folder into `htdocs`.  Each image is numbered from 1 to 52, one for each card in a deck.
 
@@ -35,7 +34,7 @@
 
     ```
 
-    Given this card number you must display the correct card image.  For example, if ``card=1` your program should display the Ace of Clubs.
+    Given this card number you must display the correct card image.  For example, if `card=1` your program should display the Ace of Clubs.
 
 
 ## Part 2 - Control Structures
@@ -74,8 +73,26 @@
 1.	In the previous solution does your code print a message such a *Invalid mark* if a mark > 100 or mark < 0 is input? 
 	If NOT, modify your code now to do so.
 
+1.  Write a PHP program called ``sqr.php`` that prints the following:
+
+    ```
+    1*1=1
+    2*2=2
+    3*3=9
+    4*4=16
+    5*5=25
+    6*6=36
+    7*7=49
+    8*8=64
+    9*9=81
+    10*10=100
+    ```
+
+    Use a ``for`` loop.
+
 1.	Write a PHP program called ``table.php`` that prints the multiplication table shown below
 
 	![alt text](images/table.png "12 Times Table")
 
+    Use a ``for`` loop.
 
